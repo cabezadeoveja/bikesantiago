@@ -19,9 +19,11 @@ Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de C
 - User Testing
 
 
+
 ## Descubrimiento e Investigación
 
-###Research
+### Research
+
 **Bikesantiago** ofrece a los usuarios que bajan la app 5 funciones principales:
 - Notificaciones instantaneas a tú teléfono a la hora en que sacas y devuelves la bicicleta.
 - Listado de estaciones favoritas.
@@ -44,6 +46,7 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 - "Te cobra dempas cuando pasa el tiempo y la app no te avisa nada".
 
 
+
 ## Sintesis y definición
 
 ### Usuario Primario
@@ -63,6 +66,7 @@ Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5
 - Que pasaría si existiese un **cronometro** que avise a los usuarios que les queda poco tiempo para evitar los cobros extras.
 - Que pasaría si en vez de tarjerta, el desbloqueo funcionará por medio de un **codigo QR**, para evitar las tarjetas bloqueadas y reportar desperfectos de manera más rápida.
 - Que pasaría si uno pudiese **reservar** una bicicleta por 15 minutos para que los usuarios se aseguren que este la bicicleta cuando lleguen a la estación.
+
 
 
 ## Prototipado
