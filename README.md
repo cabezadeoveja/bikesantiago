@@ -46,24 +46,24 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 
 ## Sintesis y definición
 
-###Usuario Primario
+### Usuario Primario
 - Estudiantes Universitarios.
 - Trabajadores adultos/jovenes.
 
 Nuestro usuario primario ocupa el sistema **Bikesantiago** por que no cuentan con una bicicleta propia para movilizarse, lo ven como una alternativa para evitar el trafico en hora punta y a la vez ahorrar dinero. También les ayuda a tener una vida más saludable y encuentran que es una forma para contribuir con el medio ambiente, ya que al andar en bicicleta reducen la contaminación.
 
-###Problem Statement
+### Problem Statement
 Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5 funciones que ofrece la app, 2 de ellas no estan cumpliendo su objetivo** en ningún aspecto, lo que conlleva a una mala experiencia del usuario al ocupar la aplicación. Las funciones que no cumplen con el objetivo son las siguientes:
 - Ver la cantidad de bicicletas disponibles, ya que a pesar de que muestran la cantidad de bicicletas y espacios disponibles, esta información no esta actualizada o hay muchas bicicletas en mal estado, por lo cual no se pueden ocupar; provocando en el usuario una perdida de tiempo en la busqueda de una bicicleta.
 - Notificaciones instantaneas al teléfono a la hora en que sacas y devuelves la bicicleta, lo que provoca un cobro extra y desconocido por los usuarios.
 
 
-###What if… (Que pasaría si…)
+### What if… (Que pasaría si…)
 - Que pasaría si existiese un **servicio de reporte** que informe a otros usuarios si hay bicicletas en mal estado en las estaciones. 
 - Que pasaría si existiese un **cronometro** que avise a los usuarios que les queda poco tiempo para evitar los cobros extras.
 - Que pasaría si en vez de tarjerta, el desbloqueo funcionará por medio de un **codigo QR**, para evitar las tarjetas bloqueadas y reportar desperfectos de manera más rápida.
 - Que pasaría si uno pudiese **reservar** una bicicleta por 15 minutos para que los usuarios se aseguren que este la bicicleta cuando lleguen a la estación.
 
 
-##Prototipado
+## Prototipado
 Con nuestro un producto minimo viable definido, se procede a realizar el prototipo. Realizamos el [Demo Bikesantiago](https://marvelapp.com/c8f7hgj/screen/40092310) en el progrma marvelapp para poder testearlo posteriormente con usuarios reales.
