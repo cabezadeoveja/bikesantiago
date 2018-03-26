@@ -1,29 +1,19 @@
 # Bikesantiago
-**Challenge Hackathon:** La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.1 estrellas en la Play Store. Debemos entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia de los usuarios y el rating de la app.
 
-**Desarrollado para:** Bikesantiago & Laboratoria.
+**Challenge Hackathon:** La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.1 estrellas en la Play Store. Como equipo debemos entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia de los usuarios y el rating de la app.
+Hackathon del final del Bootcamp de Laboratoria a modo de preparación para el Talenfest; nuestro equipo de trabajo estuvo conformado por 3 Front-end (Tanko Azócar, Paulina Baeza y Andrea Diaz) y 1 UX (Pabla Bazán) 
 
+## Desarrollado para 
+[Laboratoria y Bikesantiago](https://marvelapp.com/c8f7hgj/screen/40092310)
 
-## ¿Qué es Bikesantiago?
+## ¿Qué es Bikesantiago? |
 Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de Chile. Con el respaldo de banco Itaú y la más moderna tecnología mundial, entrega un servicio 100% automatizado, complementario al transporte público. Es una alternativa eficiente, económica y segura que mejora la calidad de vida de miles de personas y contribuye decididamente al desarrollo sostenible.
 
-![](/img/foto1.png) ![](/img/foto2.png)  
+***
 
+## Descubrimiento e Investigación |
 
-
-## Nuestro proceso de diseño
-- Descubrimiento e investigación
-- Sintesis y definición
-- Ideación
-- Prototipado
-- User Testing
-
-
-
-## Descubrimiento e Investigación
-
-### Research
-
+## 1. Research
 **Bikesantiago** ofrece a los usuarios que bajan la app 5 funciones principales:
 - Notificaciones instantaneas a tú teléfono a la hora en que sacas y devuelves la bicicleta.
 - Listado de estaciones favoritas.
@@ -31,9 +21,9 @@ Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de C
 - Asocia tu tarjeta y podrás ver tus viajes de los últimos 30 días.
 - Asistencia online a través del centro de ayuda de la app. 
 
-Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que hayan ocupado u ocupen el sistama de Santiago Bike, con el objetivo de averiguar si estos 5 puntos se cumplian y a la vez conocer los puntos de conflicto (paint points) de los usuarios al ocupar la aplicación.
+Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que hayan ocupado u ocupen el sistama de Santiago Bike, con el objetivo de averiguar si los puntos que la empresa ofrece a sus usuarios se cumplian y a la vez conocer los puntos de conflicto (paint points) de los usuarios al ocupar la aplicación.
 
-**Problematicas al ocupar la aplicación:**
+## Problematicas al ocupar la aplicación:
 - "Las bicicletas que muestra la app no siempre estan en buen estado".
 - "Las bicicletas todas malas. De 5 bicicletas, 1 buena y 4 malas".
 - "En el mapa se mostraban 10 bicicletas, pero al llegar no había ninguna. El inventario no estaba actualizado".
@@ -46,8 +36,7 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 - "Te cobra dempas cuando pasa el tiempo y la app no te avisa nada".
 
 
-
-## Sintesis y definición
+## Sintesis y definición |
 
 ### Usuario Primario
 - Estudiantes Universitarios.
