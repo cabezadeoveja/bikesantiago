@@ -25,15 +25,15 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 
 ## Problematicas al ocupar la aplicación:
 - "Las bicicletas que muestra la app no siempre estan en buen estado".
-- "Las bicicletas todas malas. De 5 bicicletas, 1 buena y 4 malas".
+- "Las bicicletas estan todas malas. De 5 bicicletas, 1 buena y 4 malas".
 - "En el mapa se mostraban 10 bicicletas, pero al llegar no había ninguna. El inventario no estaba actualizado".
 - "En el mapa no están todas las estaciones existentes".
-- "La estación se muestra en la app con una foto referencial del lugar en que esta, pero esta foto no coincide e incluso 10 estaciones tienen la misma fotografía".
-- "Nunca funciono para lo que yo quería: dónde estaban las bicicletas, dónde habían bicicletas, y dónde habían puestos disponibles".
-- "Problemas con infrestructura de las bicicletas: no tenían frenos, asientos malos, no podía bajarse el asiento, las luces no funcionaban y casi ninguna tenía timbre".
-- "A veces las bicicletas quedaban abiertas, si no suena, no cierra y es como si siguieras andando y por lo cual te cobran extra".
+- "La aplicación muestra con una foto referencial el lugar en que esta la estación, pero esta foto no coincide e incluso 10 estaciones de distintos lugares tienen la misma fotografía".
+- "Nunca funciono para lo que yo quería la aplicación: por ejemplo dónde estaban las bicicletas, dónde habían bicicletas, y dónde habían puestos disponibles para colocar las bicicletas".
+- "Problemas con infrestructura de las bicicletas: no tenían frenos, los asientos estaban malos, no podía bajarse el asiento, las luces no funcionaban o no tenian y casi ninguna tenía timbre".
+- "A veces las bicicletas quedaban abiertas, si no suena, no cierra y es como si siguieras andando y por lo cual te cobran extra y uno como usuario nunca se entera".
 - "La tarjeta para liberar las bicicletas no siempre funciona".
-- "Te cobra dempas cuando pasa el tiempo y la app no te avisa nada".
+- "Te cobra demás cuando pasa el tiempo, sin embargo la aplicación no te avisa nada".
 
 
 ## Sintesis y definición |
