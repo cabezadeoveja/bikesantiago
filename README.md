@@ -59,5 +59,5 @@ Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5
 
 ***
 
-## Prototipado
-Con nuestro un producto minimo viable definido, se procede a realizar el prototipo. Realizamos el [Demo Bikesantiago](https://marvelapp.com/c8f7hgj/screen/40092310) en el progrma marvelapp para poder testearlo posteriormente con usuarios reales.
+## Ideación & Prototipado
+Como equipo decidimos que como producto minimo viable nos enfocaremos en dar un servicio de reporte y diseñar un cronometo que ayude y alerte a los usuarios, cuando les quede poco tiempo.
