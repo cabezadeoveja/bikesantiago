@@ -35,8 +35,9 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 - "La tarjeta para liberar las bicicletas no siempre funciona".
 - "Te cobra demás cuando pasa el tiempo, sin embargo la aplicación no te avisa nada".
 
+***
 
-## Sintesis y definición |
+## 2. Sintesis y definición |
 
 ### Usuario Primario
 - Estudiantes Universitarios.
