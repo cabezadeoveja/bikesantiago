@@ -7,7 +7,7 @@
 ## ¿Qué es Bikesantiago?
 Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de Chile. Con el respaldo de banco Itaú y la más moderna tecnología mundial, entrega un servicio 100% automatizado, complementario al transporte público. Es una alternativa eficiente, económica y segura que mejora la calidad de vida de miles de personas y contribuye decididamente al desarrollo sostenible.
 
-![](/home/laboratoria/Desktop/BikeStgo/img/foto1.png) ![](/home/laboratoria/Desktop/BikeStgo/img/foto2.png)  
+![](/img/foto1.png) ![](/img/foto2.png)  
 
 
 
