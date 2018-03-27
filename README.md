@@ -17,7 +17,7 @@ Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de C
 
 ![bike-2](https://user-images.githubusercontent.com/32286870/37944210-235094e0-3151-11e8-915f-83edf7909cba.jpg)
 
-## 1. Research
+## Research
 **Bikesantiago** ofrece a los usuarios que bajan la app 5 funciones principales:
 - Notificaciones instantaneas a tú teléfono a la hora en que sacas y devuelves la bicicleta.
 - Listado de estaciones favoritas.
@@ -45,9 +45,9 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 
 ***
 
-## 2. Sintesis y definición |
+## Sintesis y definición |
 
-## Creando personas, usuario Primario
+## Creando personas, usuario primario
 - Estudiantes Universitarios.
 - Trabajadores adultos/jovenes.
 
@@ -60,19 +60,19 @@ Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5
 
 ***
 
-## 3. Ideación
+## Ideación |
 Usando nuestras nuevas personas, creamos un escenario para que cada uno comience a idear cómo podemos resolver cada una de sus necesidades. La sesión de ideación proporcionó muchas ideas geniales.
 
-## What if… |
+## What if… 
 - Que pasaría si existiese un **servicio de reporte** que informe entre usuarios si hay bicicletas en mal estado en las estaciones para evitar el ir de una estación a otra. 
 - Que pasaría si existiese un **cronometro** (de 1 hora o 30 minutos, según el plan) que avise a los usuarios que les queda poco tiempo para evitar de esta manera los cobros extras.
 - Que pasaría si en vez de tarjerta, el desbloqueo funcionará por medio de un **codigo QR**, para evitar las tarjetas bloqueadas y reportar desperfectos de manera más rápida.
 - Que pasaría si uno pudiese **reservar** una bicicleta por 15 minutos para que los usuarios se aseguren que este la bicicleta cuando lleguen a la estación.
 - Que pasaría si la app pudiese **mostrar las ciclovias en el mapa** para que los usuarios pudiesen planificar sus rutas de viajes.
 
-## Crear el MVP |
+## Crear el MVP 
 Limitamos nuestras ideas a las características que pondríamos en la aplicación y priorizamos lo que sería nuestro Producto Minimo Viable. Es por ello que, como equipo decidimos que en una primera instancia nos enfocaremos en dar un servicio de reporte de bicicletas en mal estado y diseñaremos un cronometo que ayude y alerte a los usuarios cuando les quede poco tiempo; ya que estos son los puntos más criticos, tanto a nivel de aplicación como cuando se utiliza el servicio Bikesantiago.
 
 ***
 
-## 4. Prototipado
+## Prototipado
