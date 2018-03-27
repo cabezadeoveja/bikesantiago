@@ -47,7 +47,7 @@ Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que 
 
 ## 2. Sintesis y definición |
 
-## Usuario Primario
+## Creando personas, usuario Primario
 - Estudiantes Universitarios.
 - Trabajadores adultos/jovenes.
 
@@ -58,13 +58,17 @@ Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5
 - Ver la cantidad de bicicletas disponibles, ya que a pesar de que muestran la cantidad de bicicletas y espacios disponibles, esta información no esta actualizada o hay muchas bicicletas en mal estado, por lo cual no se pueden ocupar; provocando en el usuario una perdida de tiempo en la busqueda de una bicicleta.
 - Notificaciones instantaneas al teléfono a la hora en que sacas y devuelves la bicicleta, lo que provoca un cobro extra y desconocido por los usuarios.
 
+***
+
+## Ideación & Prototipado
+Usando nuestras nuevas personas, creamos un escenario para que cada uno comience a idear cómo podemos resolver cada una de sus necesidades. La sesión de ideación proporcionó muchas ideas geniales.
+
 ## What if… |
 - Que pasaría si existiese un **servicio de reporte** que informe entre usuarios si hay bicicletas en mal estado en las estaciones para evitar el ir de una estación a otra. 
 - Que pasaría si existiese un **cronometro** (de 1 hora o 30 minutos, según el plan) que avise a los usuarios que les queda poco tiempo para evitar de esta manera los cobros extras.
 - Que pasaría si en vez de tarjerta, el desbloqueo funcionará por medio de un **codigo QR**, para evitar las tarjetas bloqueadas y reportar desperfectos de manera más rápida.
 - Que pasaría si uno pudiese **reservar** una bicicleta por 15 minutos para que los usuarios se aseguren que este la bicicleta cuando lleguen a la estación.
+- Que pasaría si la app pudiese **mostrar las ciclovias en el mapa** para que los usuarios pudiesen planificar sus rutas de viajes.
 
-***
-
-## Ideación & Prototipado
-Como equipo decidimos que como producto minimo viable nos enfocaremos en dar un servicio de reporte y diseñar un cronometo que ayude y alerte a los usuarios, cuando les quede poco tiempo.
+## Crear el MVP |
+Limitamos nuestras ideas a las características que pondríamos en la aplicación y priorizamos lo que sería nuestro Producto Minimo Viable. Es por ello que, como equipo decidimos que en una primera instancia nos enfocaremos en dar un servicio de reporte de bicicletas en mal estado y diseñaremos un cronometo que ayude y alerte a los usuarios cuando les quede poco tiempo; ya que estos son los puntos más criticos, tanto a nivel de aplicación como cuando se utiliza el servicio Bikesantiago.
