@@ -1,6 +1,6 @@
 # Bikesantiago
 
-**Challenge Hackathon:** La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.1 estrellas en la Play Store. Como equipo debemos entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia de los usuarios y el rating de la app.
+**Challenge Hackathon:** La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.0 estrellas en la Play Store. Como equipo debemos entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia de los usuarios y el rating de la app.
 Hackathon del final del Bootcamp de Laboratoria a modo de preparación para el Talenfest; nuestro equipo de trabajo estuvo conformado por 3 Front-end (Tanko Azócar, Paulina Baeza y Andrea Diaz) y 1 UX (Pabla Bazán) y el tiempo para realizar el producto minimo viable fueron 2 días.
 
 ![zooapp-img-1](https://user-images.githubusercontent.com/32286870/37943810-8d9bb4c6-314f-11e8-9e2a-2a2b423de10d.png)
