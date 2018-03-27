@@ -60,7 +60,7 @@ Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5
 
 ***
 
-## Ideación & Prototipado
+## 3. Ideación
 Usando nuestras nuevas personas, creamos un escenario para que cada uno comience a idear cómo podemos resolver cada una de sus necesidades. La sesión de ideación proporcionó muchas ideas geniales.
 
 ## What if… |
@@ -72,3 +72,7 @@ Usando nuestras nuevas personas, creamos un escenario para que cada uno comience
 
 ## Crear el MVP |
 Limitamos nuestras ideas a las características que pondríamos en la aplicación y priorizamos lo que sería nuestro Producto Minimo Viable. Es por ello que, como equipo decidimos que en una primera instancia nos enfocaremos en dar un servicio de reporte de bicicletas en mal estado y diseñaremos un cronometo que ayude y alerte a los usuarios cuando les quede poco tiempo; ya que estos son los puntos más criticos, tanto a nivel de aplicación como cuando se utiliza el servicio Bikesantiago.
+
+***
+
+## 4. Prototipado
