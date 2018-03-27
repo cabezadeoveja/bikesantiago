@@ -3,7 +3,7 @@
 **Challenge Hackathon:** La app de [Bikesantiago](https://play.google.com/store/apps/details?id=com.bikesantiagoapp) tiene solo 2.1 estrellas en la Play Store. Como equipo debemos entender por qué tiene tan bajo rating y cómo podemos hacer para mejorar la experiencia de los usuarios y el rating de la app.
 Hackathon del final del Bootcamp de Laboratoria a modo de preparación para el Talenfest; nuestro equipo de trabajo estuvo conformado por 3 Front-end (Tanko Azócar, Paulina Baeza y Andrea Diaz) y 1 UX (Pabla Bazán) y el tiempo para realizar el producto minimo viable fueron 2 días.
 
-![bike-1](https://user-images.githubusercontent.com/32286870/37943073-59825eae-314c-11e8-9d76-b68e510c2bb0.jpg)
+![zooapp-img-1](https://user-images.githubusercontent.com/32286870/37943810-8d9bb4c6-314f-11e8-9e2a-2a2b423de10d.png)
 
 ## Desarrollado para 
 [Laboratoria y Bikesantiago](https://marvelapp.com/c8f7hgj/screen/40092310)
@@ -15,6 +15,8 @@ Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de C
 
 ## Descubrimiento e Investigación |
 
+![bike-2](https://user-images.githubusercontent.com/32286870/37944210-235094e0-3151-11e8-915f-83edf7909cba.jpg)
+
 ## 1. Research
 **Bikesantiago** ofrece a los usuarios que bajan la app 5 funciones principales:
 - Notificaciones instantaneas a tú teléfono a la hora en que sacas y devuelves la bicicleta.
@@ -23,7 +25,11 @@ Bikesantiago es un Sistema Intercomunal de Bicicletas Públicas de Santiago de C
 - Asocia tu tarjeta y podrás ver tus viajes de los últimos 30 días.
 - Asistencia online a través del centro de ayuda de la app. 
 
-Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que hayan ocupado u ocupen el sistama de Santiago Bike, con el objetivo de averiguar si los puntos que la empresa ofrece a sus usuarios se cumplian y a la vez conocer los puntos de conflicto (paint points) de los usuarios al ocupar la aplicación.
+Teniendo en cuenta estas 5 funciones primordiales, entrevistamos a usuarios que hayan ocupado u ocupen el sistama de Santiago Bike y buscamos en la web sobre temas relevantes al problema que estamos enfrentando. Con el objetivo de averiguar si los puntos que la empresa ofrece a sus usuarios se cumplian y a la vez conocer los puntos de conflicto (paint points) de los usuarios al ocupar la aplicación.
+
+![bike-3](https://user-images.githubusercontent.com/32286870/37944868-c8ffa758-3153-11e8-90bf-fa1a7f50c091.jpg)
+
+![bike-4](https://user-images.githubusercontent.com/32286870/37945275-c509d220-3155-11e8-84de-0317260f6701.jpg)
 
 ## Problematicas al ocupar la aplicación:
 - "Las bicicletas que muestra la app no siempre estan en buen estado".
@@ -51,7 +57,6 @@ Nuestro usuario primario ocupa el sistema **Bikesantiago** por que no cuentan co
 Luego de analizar todo la información obtenida, nos dimos cuenta que **de las 5 funciones que ofrece la app, 2 de ellas no estan cumpliendo su objetivo** en ningún aspecto, lo que conlleva a una mala experiencia del usuario al ocupar la aplicación. Las funciones que no cumplen con el objetivo son las siguientes:
 - Ver la cantidad de bicicletas disponibles, ya que a pesar de que muestran la cantidad de bicicletas y espacios disponibles, esta información no esta actualizada o hay muchas bicicletas en mal estado, por lo cual no se pueden ocupar; provocando en el usuario una perdida de tiempo en la busqueda de una bicicleta.
 - Notificaciones instantaneas al teléfono a la hora en que sacas y devuelves la bicicleta, lo que provoca un cobro extra y desconocido por los usuarios.
-
 
 ## What if… |
 - Que pasaría si existiese un **servicio de reporte** que informe entre usuarios si hay bicicletas en mal estado en las estaciones para evitar el ir de una estación a otra. 
