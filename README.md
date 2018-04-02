@@ -76,3 +76,5 @@ Limitamos nuestras ideas a las características que pondríamos en la aplicació
 ***
 
 ## Prototipado
+
+![bike-5](https://user-images.githubusercontent.com/32286870/38200013-1ea1094e-3669-11e8-8f76-d7798f344f6d.jpg)
