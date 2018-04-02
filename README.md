@@ -76,5 +76,12 @@ Limitamos nuestras ideas a las características que pondríamos en la aplicació
 ***
 
 ## Prototipado
+Se realizó un prototipado rápido digital, a través de marvelapp. Se utilizó user flow para determinar el flujo de navegación para realizar diferentes tareas dentro de la aplicación, de esta manera mis compañeras de front-end al momento de codificar el prototipo de alta fidelidad a traves del programa react, tendrían claro conceptos del maqueteado tales como: paleta de colores, iconos a utilizar, textos y diagramación dentro de la plataforma, ahorrando de esta manera tiempo.
+
+### Actividades a realizar
+- Ver cantidad de bicicletas y espacios disponibles.
+- Reportar problema con bicicleta.
+- Reserva de bicicleta.
+- Ver perfil de usuario.
 
 ![bike-5](https://user-images.githubusercontent.com/32286870/38200013-1ea1094e-3669-11e8-8f76-d7798f344f6d.jpg)
